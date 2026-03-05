@@ -20,3 +20,16 @@ A production-ready Task Manager app built using Flutter. User can create tasks, 
 3. Add `SUPABASE_URL` and `SUPABASE_ANON_KEY`.
 4. Run `flutter pub get`.
 5. Run `flutter run`.
+
+
+## App Screenshots
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="1080" height="2424" alt="Screenshot_1772714821" src="https://github.com/user-attachments/assets/05161c3b-2669-4bc8-91e5-a3957756a906" /></td>
+      <td><img width="1080" height="2424" alt="Screenshot_1772714854" src="https://github.com/user-attachments/assets/1d75a653-fbd1-4ecf-b305-560f6bfe7d56" /></td>
+      <td><img width="1080" height="2424" alt="Screenshot_1772714858" src="https://github.com/user-attachments/assets/b13972fa-2152-4047-965e-fb6bf79a5321" /></td>
+    </tr>
+  </table>
+</div>
+
